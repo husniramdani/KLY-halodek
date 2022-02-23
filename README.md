@@ -1,10 +1,6 @@
 # [halodoc](https://halodoc.com) api
 Unofficial API and Web Scraping from halodoc.com
 
-
-## Support creator & developer
-Treat me a cup of coffee [in here](https://trakteer.id/bakunya/tip)
-
 ## Terms of Service
 ### This software is only used for educational.
 ### Any responsibility beyond the responsibility of the developer.
